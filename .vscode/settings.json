@@ -1,0 +1,8 @@
+{
+  "editor.tabSize": 2,
+  "html.format.indentHandlebars": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.definitionLinkOpensInPeek": true,
+  "editor.foldingImportsByDefault": true,
+  "editor.fontSize": 15
+}
